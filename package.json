@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-midi/hooks": "^1.0.2",
+    "@tonaljs/chord": "^4.6.5",
+    "axios": "^0.25.0",
+    "bootstrap": "^5.1.3",
+    "file-loader": "^6.2.0",
     "next": "12.1.0",
+    "next-compose": "^0.0.2",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-bootstrap": "^2.1.2",
+    "react-dom": "17.0.2",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.0",
+    "socket.io-client": "^4.4.1",
+    "web-vitals": "^2.1.3"
   },
   "devDependencies": {
     "eslint": "8.9.0",
